@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Who am I?
+My name is Nikolaj Petersen and I work as an Systemsadministrator for Aarhus University in Denmark. I try to automise as much as possible in my daily work, some of it will show up here. Read more about me on my LinkedIn profile: https://www.linkedin.com/in/nipetersen
+
+I love working with IOT (Zigbee and MQTT using Python), VMware (NSX, VSAN and more), Networking, Automation and more. 
+
+### Stats:
+![NPetersenDK's GitHub stats](https://github-readme-stats.vercel.app/api?username=NPetersenDK&show_icons=true)
