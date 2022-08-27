@@ -20,5 +20,7 @@ My name is Nikolaj Petersen and I work as an Systemsadministrator for Aarhus Uni
 
 I love working with IOT (Zigbee and MQTT using Python), VMware (NSX, VSAN, VRA and more), Networking, Automation and more. Trying to focus more and more on Cloud than On-Premise VMware hosting.
 
+Blogging about stuff at: https://nipetersen.dk/blog/
+
 ### Stats:
 ![NPetersenDK's GitHub stats](https://github-readme-stats.vercel.app/api?username=NPetersenDK&show_icons=true)
