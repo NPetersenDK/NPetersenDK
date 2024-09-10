@@ -16,9 +16,22 @@ Here are some ideas to get you started:
 -->
 
 ### Who am I?
-My name is Nikolaj Petersen and I work as an Systemsadministrator for Aarhus University in Denmark. I try to automise as much as possible in my daily work, some of it will show up here. Read more about me on my LinkedIn profile: https://www.linkedin.com/in/nipetersen
+My name is Nikolaj Petersen and I work as an DevOps Engineer for Aarhus University in Denmark. I try to automise as much as possible in my daily work, some of it might show up here. Read more about me on my LinkedIn profile: https://www.linkedin.com/in/nipetersen
 
-I love working with IOT (Zigbee and MQTT using Python), VMware (NSX, VSAN, VRA and more), Networking, Automation and more. Trying to focus more and more on Cloud than On-Premise VMware hosting.
+### Lab:
+I love having a LAB to test things out in, using VMware and all their products (NSX, VSAN, vRA, ESX). Automating everything from lab-deployments, to container solutions, and everything in between. Using new langauages and all the stuff that shouldnt be on a production environment :)
+Coding in:
+- PowerShell
+- Python
+- HTML/CSS
+- Node.JS (Very little)
+
+### Volunteer Work:
+- eSport Brande (https://esport-brande.dk). We have a lot of Counter-Strike, Minecraft and other servers that needs to be standarlized and automated deployments. We host LAN events a few time a year with tournaments and more.
+- NPF (Now closed, sadly). 10 times as a participant, and one time as a Volunteer for the network crew.
+
+### IOT
+I love IOT, and all the fun stuff it gives. I also do automations in YAML using Home Assistant, but also a lot of Python connected to fx MQTT to do a thing when a event happens.
 
 Blogging about stuff at: https://nipetersen.dk/blog/
 
